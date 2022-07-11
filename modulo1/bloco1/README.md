@@ -1,0 +1,1 @@
+Aprendendo um pouco sobre o sistema operacional UNIX e executando alguns comandos no terminal.

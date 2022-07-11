@@ -1,0 +1,1 @@
+Essa etapa representa minha introdução ao conceito de git e um aprofundamento nos meus conhecimentos a respeito da Internet.
