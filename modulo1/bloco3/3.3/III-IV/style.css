@@ -1,0 +1,28 @@
+h1, p, ul{
+    text-align: center;
+}
+li:hover{
+    background-color: black;
+    color: wheat;
+}
+li:active{
+    font-family: sans-serif;
+}
+#caixa div:hover{
+    border: solid;
+}
+#I{
+    background-color: red;
+}
+#II{
+    background-color: rebeccapurple;
+}
+#III{
+    background-color: blue;
+}
+#IV{
+    background-color:  darkblue;
+}
+#V{
+    background-color:greenyellow;
+}
