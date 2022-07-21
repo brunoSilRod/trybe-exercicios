@@ -5,3 +5,9 @@
 #camarao{
     height:200px;
 }
+.nomes{
+    font-weight: bold;
+}
+#nome{
+    font-style: italic;
+}
